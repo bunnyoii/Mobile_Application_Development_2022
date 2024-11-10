@@ -316,37 +316,37 @@
         }
       }
     },
-    "Bachelor’s Degree in Software Engineering, Specialization in Machine Intelligence, School of Computer Science and Technology, Tongji University." : {
+    "Software engineering undergraduate at Tongji University, focused on research and technology development, leading innovative projects, proficient in programming and technical tools, committed to technological innovation and creating societal value." : {
       "comment" : "Detail text explaining the About Me module.",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bachelor in Softwaretechnik, Spezialisierung auf Maschinenintelligenz, Fakultät für Informatik und Technik, Tongji-Universität."
+            "value" : "Softwaretechnik-Studentin an der Tongji-Universität, spezialisiert auf Forschung und Technologieentwicklung, leitend bei innovativen Projekten, versiert in Programmierung und technischen Tools, engagiert für technologische Innovation und gesellschaftlichen Mehrwert."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Licence en génie logiciel, spécialisation en intelligence artificielle, École d'informatique et de technologie, Université Tongji."
+            "value" : "Étudiante en génie logiciel à l'Université de Tongji, spécialisée dans la recherche et le développement technologique, leader de projets innovants, compétente en programmation et outils techniques, dédiée à l'innovation technologique et à la création de valeur sociétale."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同済大学 コンピュータ科学技術学院 ソフトウェア工学学士（機械知能専攻）。"
+            "value" : "同済大学ソフトウェア工学専攻の学部生で、研究と技術開発に注力し、革新的なプロジェクトを主導。プログラミングと技術ツールに精通し、技術革新と社会価値の創造に取り組んでいます。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "동지대학 컴퓨터과학 및 기술 학부 소프트웨어 공학 학사 (기계 지능 전공)."
+            "value" : "통지대학교 소프트웨어 공학 전공 학부생으로, 연구 및 기술 개발에 집중하며 혁신적인 프로젝트를 주도. 프로그래밍 및 기술 도구에 능숙하며, 기술 혁신과 사회적 가치 창출에 헌신하고 있습니다."
           }
         },
         "zh_CN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同济大学计算机科学与技术学院软件工程专业机器智能方向本科在读。"
+            "value" : "同济大学软件工程本科生，专注科研与技术开发，主导多项创新项目，精通编程与技术工具，致力于科技创新与社会价值创造。"
           }
         }
       }
@@ -768,37 +768,37 @@
         }
       }
     },
-    "I’m Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, Tongji University.\n\nI am passionate about full-stack development and committed to practicing elegant engineering solutions.\n\nI enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions.\n\nWith experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.\n\nFeel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation!" : {
+    "I am Liu Shuyi, an undergraduate student majoring in Software Engineering with a focus on Embedded Systems at the School of Computer Science and Technology, Tongji University. Passionate about research and technology development, I have led several innovative projects, such as the chemical transformation of organic waste based on deep learning and the lightweight optimization of 3D image sensor signal enhancement networks, contributing to environmental protection and mobile technology optimization.\n\nI am proficient in programming languages such as C/C++ and Python, and skilled in frameworks like Vue and PyTorch, as well as tools like Git and Linux. In the 2024 iGEM competition, I developed a molecular tag design software, Atlas.Y, which improved the efficiency of biological experiments.\n\nDuring my studies, I have taken on various student leadership roles, such as Class President and Vice President of the Technology Club, gaining extensive experience in team management and organization. In the future, I hope to continue exploring the field of technology and create more value for society." : {
       "comment" : "Educational text displayed in the Objects in About Me module.",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ich bin Jishen Lin, ein Student der Softwaretechnik mit Schwerpunkt auf maschineller Intelligenz an der Fakultät für Informatik und Technik der Tongji-Universität.\n\nIch begeistere mich für Full-Stack-Entwicklung und setze mich für elegante technische Lösungen ein.\n\nIch arbeite gerne mit diversen Teams zusammen, um neueste Technologien zu erforschen und reale Probleme durch innovative und effiziente Lösungen zu lösen.\n\nMit Erfahrungen in der Full-Stack-Entwicklung, KI-Forschung und Open-Source-Projekten suche ich stets nach neuen Herausforderungen und Lernmöglichkeiten.\n\nKontaktieren Sie mich gerne, wenn Sie Ideen besprechen oder neue Möglichkeiten der technischen Innovation erkunden möchten!"
+            "value" : "Ich bin Liu Shuyi, eine Bachelorstudentin im Studiengang Softwaretechnik mit Schwerpunkt Eingebettete Systeme an der Fakultät für Informatik und Technologie der Tongji-Universität. Begeistert von Forschung und technischer Entwicklung habe ich mehrere innovative Projekte geleitet, wie die chemische Umwandlung organischer Abfälle auf Basis von Deep Learning und die leichte Optimierung von Netzwerken zur Signalverstärkung von 3D-Bildsensoren, die zum Umweltschutz und zur Optimierung mobiler Technologien beitragen.\n\nIch beherrsche Programmiersprachen wie C/C++ und Python und bin vertraut mit Frameworks wie Vue und PyTorch sowie Tools wie Git und Linux. Im iGEM-Wettbewerb 2024 habe ich die molekulare Tag-Design-Software Atlas.Y entwickelt, die die Effizienz biologischer Experimente verbessert hat.\n\nWährend meines Studiums habe ich verschiedene Führungsrollen übernommen, darunter Klassensprecherin und stellvertretende Vorsitzende des Technologieclubs, und wertvolle Erfahrungen in Teammanagement und Organisation gesammelt. In Zukunft möchte ich die Technologieforschung weiter vorantreiben und mehr gesellschaftlichen Nutzen schaffen."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je suis Jishen Lin, étudiant en licence en ingénierie logicielle avec une spécialisation en intelligence artificielle à l'école d'informatique et de technologie de l'Université Tongji.\n\nJe suis passionné par le développement full-stack et engagé dans la pratique de solutions techniques élégantes.\n\nJ'aime collaborer avec des équipes diversifiées pour explorer des technologies de pointe et résoudre des problèmes réels par des solutions innovantes et efficaces.\n\nAvec de l'expérience en développement full-stack, en recherche IA et en projets open-source, je recherche toujours de nouveaux défis et des opportunités pour apprendre et évoluer.\n\nN'hésitez pas à me contacter si vous souhaitez discuter d'idées ou explorer de nouvelles possibilités en innovation technologique !"
+            "value" : "Je suis Liu Shuyi, étudiante en licence en Génie Logiciel, spécialisée en Systèmes Embarqués à l'École d'Informatique et de Technologie de l'Université de Tongji. Passionnée par la recherche et le développement technologique, j'ai dirigé plusieurs projets innovants, tels que la transformation chimique des déchets organiques basée sur l'apprentissage profond et l'optimisation allégée des réseaux d'amélioration des signaux de capteurs d'images 3D, contribuant ainsi à la protection de l'environnement et à l'optimisation des technologies mobiles.\n\nJe maîtrise des langages de programmation tels que C/C++ et Python, et je suis compétente dans l'utilisation de frameworks comme Vue et PyTorch, ainsi que des outils tels que Git et Linux. Lors de la compétition iGEM 2024, j'ai développé un logiciel de conception de balises moléculaires, Atlas.Y, qui a amélioré l'efficacité des expériences biologiques.\n\nDurant mes études, j'ai occupé plusieurs postes de responsabilité étudiante, comme celui de présidente de classe et de vice-présidente du club technologique, acquérant une expérience précieuse en gestion d'équipe et en organisation. À l'avenir, je souhaite continuer à explorer le domaine des technologies et créer davantage de valeur pour la société."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "私は林継申です。ソフトウェア工学を専攻し、機械知能を専門とする同済大学の学部生です。\n\nフルスタック開発に情熱を持ち、優雅なエンジニアリングソリューションの実践に努めています。\n\n多様なチームと協力し、最先端技術を探求し、革新的で効率的な解決策を通じて現実の問題を解決することを楽しんでいます。\n\nフルスタック開発、AI研究、オープンソースプロジェクトの経験を持ち、常に新しい挑戦と学習・成長の機会を探しています。\n\nテクノロジー革新においてアイデアを議論したり、新しい可能性を探求したりしたい場合は、ぜひご連絡ください！"
+            "value" : "私は劉淑儀（りゅうしゅくぎ）です。現在、同済大学計算機科学技術学院ソフトウェア工学専攻、組込みシステム分野の学部生です。研究と技術開発に情熱を注ぎ、深層学習を用いた有機廃棄物の化学的変換や、3D画像センサー信号の軽量化ネットワークの最適化といった革新的なプロジェクトを主導し、環境保護やモバイル技術の最適化に貢献してきました。\n\nC/C++、Pythonといったプログラミング言語に精通し、VueやPyTorchなどのフレームワーク、GitやLinuxなどのツールも使いこなしています。2024年のiGEM大会では、分子タグ設計ソフトウェアAtlas.Yを開発し、生物実験の効率を向上させました。\n\n在学中は、クラス長や技術クラブの副会長などの学生役職を務め、チーム管理や組織運営の豊富な経験を積みました。今後も技術分野の探求を続け、社会により多くの価値を創造したいと考えています。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저는 소프트웨어 공학을 전공하고 기계 지능을 중점적으로 공부하는 동지대학의 학부생인 린지셴입니다.\n\n저는 풀스택 개발에 열정적이며 우아한 엔지니어링 솔루션을 실천하는 데 헌신하고 있습니다.\n\n다양한 팀과 협력하여 최첨단 기술을 탐구하고 혁신적이고 효율적인 솔루션을 통해 실제 문제를 해결하는 것을 즐깁니다.\n\n풀스택 개발, AI 연구 및 오픈 소스 프로젝트 경험을 통해 항상 새로운 도전과 학습 및 성장을 추구합니다.\n\n기술 혁신에서 아이디어를 논의하거나 새로운 가능성을 탐구하고 싶으시면 언제든지 연락 주세요!"
+            "value" : "저는 톈진대학교 컴퓨터과학기술학부 소프트웨어공학 전공, 임베디드 시스템 분야 학부생인 류슈이입니다. 연구와 기술 개발에 열정적이며, 딥러닝을 기반으로 한 유기 폐기물 화학 전환 및 3D 이미지 센서 신호 강화 네트워크 경량화와 같은 혁신적인 프로젝트를 주도하여 환경 보호와 모바일 기술 최적화에 기여했습니다.\n\nC/C++ 및 Python과 같은 프로그래밍 언어에 능숙하며, Vue, PyTorch와 같은 프레임워크와 Git, Linux 같은 도구를 잘 다룹니다. 2024년 iGEM 대회에서는 생물 실험의 효율성을 향상시키는 분자 태그 설계 소프트웨어 Atlas.Y를 개발했습니다.\n\n재학 중에는 반장 및 기술 클럽 부회장 등 다양한 학생 직책을 맡아 팀 관리와 조직 운영에 풍부한 경험을 쌓았습니다. 앞으로도 기술 분야에서 계속 탐구하며 사회에 더 많은 가치를 창출하고자 합니다."
           }
         },
         "zh_CN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "我是林继申，同济大学计算机科学与技术学院软件工程专业机器智能方向本科在读。\n\n我热衷于全栈开发，追求优雅的工程实践。\n\n我喜欢与多元化团队合作，探索前沿技术，通过创新和高效的解决方案解决现实问题。\n\n拥有全栈开发、人工智能研究和开源项目经验，我始终在寻找新的挑战和学习成长的机会。\n\n如果您想讨论想法或探索技术创新的新可能性，请随时联系我！"
+            "value" : "我是刘淑仪，同济大学计算机科学与技术学院软件工程专业嵌入式系统方向的本科生。我热衷于科研与技术开发，曾主导多个创新项目，如基于深度学习的有机垃圾化学转化和三维图像传感器信号增强网络轻量化等，为环保和移动端技术优化贡献了力量。\n\n我精通C/C++、Python等编程语言，熟练掌握Vue、PyTorch等框架，熟悉Git、Linux等工具。在2024年iGEM比赛中，我开发了分子标签设计软件Atlas.Y，提升了生物实验的效率。\n\n在校期间，我担任多项学生职务，如班长和技术俱乐部副主席，积累了丰富的团队管理和组织经验。未来，我希望在科技领域不断探索，为社会创造更多价值。"
           }
         }
       }
@@ -838,37 +838,37 @@
         }
       }
     },
-    "Jishen Lin" : {
+    "Shuyi Liu" : {
       "comment" : "The title of a module in the app.",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jishen Lin"
+            "value" : "Shuyi Liu"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jishen Lin"
+            "value" : "Shuyi Liu"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jishen Lin"
+            "value" : "Shuyi Liu"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jishen Lin"
+            "value" : "Shuyi Liu"
           }
         },
         "zh_CN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "林继申"
+            "value" : "刘淑仪"
           }
         }
       }

@@ -36,7 +36,7 @@ enum Module: String, Identifiable, CaseIterable, Equatable {
         case .solar:
             String(localized: "The Solar System", comment: "The title of a module in the app.")
         case .about:
-            String(localized: "Jishen Lin", comment: "The title of a module in the app.")
+            String(localized: "Shuyi Liu", comment: "The title of a module in the app.")
         }
     }
 
@@ -49,7 +49,7 @@ enum Module: String, Identifiable, CaseIterable, Equatable {
         case .solar:
             String(localized: "Take a trip to the solar system and watch how the Earth, Moon, and its satellites are in constant motion rotating around the Sun.", comment: "Detail text explaining the Solar System module.")
         case .about:
-            String(localized: "Bachelor’s Degree in Software Engineering, Specialization in Machine Intelligence, School of Computer Science and Technology, Tongji University.", comment: "Detail text explaining the About Me module.")
+            String(localized: "Software engineering undergraduate at Tongji University, focused on research and technology development, leading innovative projects, proficient in programming and technical tools, committed to technological innovation and creating societal value.", comment: "Detail text explaining the About Me module.")
         }
     }
 
@@ -62,7 +62,7 @@ enum Module: String, Identifiable, CaseIterable, Equatable {
         case .solar:
             String(localized: "Every 365¼ days, Earth and its satellites completely orbit the Sun — the star that anchors our solar system. It’s a journey of about 940 million kilometers a year!\n\nOn its journey, the Earth moves counter-clockwise in a slightly elliptical orbit. It travels a path called the ecliptic plane — an important part of how we navigate through our solar system.\n\nWant to explore Earth’s orbit in detail? Take a trip to the solar system and watch how Earth and its satellites move around the Sun.", comment: "Educational text displayed in the Solar System module.")
         case .about:
-            String(localized: "I’m Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, Tongji University.\n\nI am passionate about full-stack development and committed to practicing elegant engineering solutions.\n\nI enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions.\n\nWith experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.\n\nFeel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation!", comment: "Educational text displayed in the Objects in About Me module.")
+            String(localized: "I am Liu Shuyi, an undergraduate student majoring in Software Engineering with a focus on Embedded Systems at the School of Computer Science and Technology, Tongji University. Passionate about research and technology development, I have led several innovative projects, such as the chemical transformation of organic waste based on deep learning and the lightweight optimization of 3D image sensor signal enhancement networks, contributing to environmental protection and mobile technology optimization.\n\nI am proficient in programming languages such as C/C++ and Python, and skilled in frameworks like Vue and PyTorch, as well as tools like Git and Linux. In the 2024 iGEM competition, I developed a molecular tag design software, Atlas.Y, which improved the efficiency of biological experiments.\n\nDuring my studies, I have taken on various student leadership roles, such as Class President and Vice President of the Technology Club, gaining extensive experience in team management and organization. In the future, I hope to continue exploring the field of technology and create more value for society.")
         }
     }
 
