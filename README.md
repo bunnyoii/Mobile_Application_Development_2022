@@ -5,3 +5,5 @@
 授课教师：朱宏明
 
 授课学期：2024-2025年度 秋季学期
+
+期末项目链接：!(Virtual Travel: Landmark Explore)[https://github.com/bunnyoii/Virtual_Travel]
